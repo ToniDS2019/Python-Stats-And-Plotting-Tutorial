@@ -2,3 +2,6 @@ dependencies:
   - matplotlib
   - numpy
   - pandas
+  - scipy
+  - statsmodels
+  - seaborn 
