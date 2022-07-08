@@ -3,7 +3,7 @@
 This repo builds on the [r binder](https://github.com/binder-examples/r) and [jupyter lab binder](https://github.com/binder-examples/jupyterlab) and is complementary to the [multi-language-demo binder](https://github.com/binder-examples/multi-language-demo) with examples on using both R and python in both Jupyter Lab and RStudio.
 
  - Launch in Jupyter Lab:[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ToniDS2019/Python-Stats-And-Plotting-Tutorial/HEAD)
-
+https://mybinder.org/v2/gh/ToniDS2019/Python-Stats-And-Plotting-Tutorial/78e102a3dc6f70441034c5f440805cec69d26ced?urlpath=lab%2Ftree%2FUntitled.ipynb
 Example files included:
 
  - `python_example_for_Jupyter.ipynb` - Notebook file using a python kernel for working in Jupyter
